@@ -6,7 +6,7 @@
 - 👋 Hi, I’m cjhcjh6
 - I am from China.
 - 👀 I am a beginner programmer
-- 🤷‍♀️ My friend [fingtest](https://github.com/fingtest6)
+- 🤷‍♀️ My friend [fingtest6](https://github.com/fingtest6)
 <!---
 cjhcjh6/cjhcjh6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
